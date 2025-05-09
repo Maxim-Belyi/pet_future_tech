@@ -1,0 +1,25 @@
+@use '../helpers/' as *;
+
+.table-of-contents {
+
+    @include laptop {
+        border-radius: rem(10);
+    }
+
+    &__list {
+        display: grid;
+        row-gap: fluid(10, 16);
+        background-color: var(--color-dark-10);
+        color: var(--color-light);
+        padding: fluid(20, 18);
+        padding-left: rem(40);
+        border-radius: rem(12);
+        font-size: rem(18);
+        margin-top: rem(16);
+    }
+
+    &__item {
+        list-style-type: disc;
+    }
+
+}

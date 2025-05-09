@@ -1,0 +1,64 @@
+@use 'normalize';
+@use 'fonts';
+@use 'variables';
+@use 'utils';
+@use 'globals';
+
+@use 'blocks/expandable-content';
+@use 'blocks/icon';
+@use 'blocks/logo.scss';
+@use 'blocks/button';
+@use 'blocks/burger-button';
+@use 'blocks/header';
+@use 'blocks/badge';
+@use 'blocks/soc1als';
+@use 'blocks/footer';
+
+@use 'blocks/metrics';
+@use 'blocks/team';
+@use 'blocks/resources-preview';
+@use 'blocks/advantage-card';
+@use 'blocks/hero';
+
+@use 'blocks/tag';
+@use 'blocks/section';
+@use 'blocks/list';
+@use 'blocks/tile';
+@use 'blocks/card';
+
+@use 'blocks/tabs';
+@use 'blocks/person-card';
+@use 'blocks/blog-actions';
+@use 'blocks/blog-card';
+
+@use 'blocks/download-info';
+@use 'blocks/bordered-grid';
+@use 'blocks/raiting-view';
+@use 'blocks/review-card';
+
+@use 'blocks/about';
+@use 'blocks/about-card';
+
+@use 'blocks/hero-alt';
+@use 'blocks/summary';
+@use 'blocks/news-card';
+@use 'blocks/news';
+
+@use 'blocks/video-player';
+@use 'blocks/video-card';
+
+@use 'blocks/blog-details';
+@use 'blocks/table-of-contents';
+
+@use 'blocks/report-card';
+
+
+// .header,
+// .footer,
+// .hero,
+// .hero-alt,
+// .section__header
+// // .section__body
+// {
+//     display: none !important;
+// }
