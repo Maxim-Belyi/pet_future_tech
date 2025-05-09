@@ -178,6 +178,10 @@
             color: inherit;
         }
 
+        &-title {
+            font-size: fluid(18, 14);
+        }
+
         &-link {
             grid-area: link;
         }
