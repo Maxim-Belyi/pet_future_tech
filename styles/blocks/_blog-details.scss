@@ -122,4 +122,8 @@
             --initialMaxHeight: #{rem(669)};
         }
     }
+
+    &__summary {
+        font-size: fluid(18, 14);
+    }
 }

@@ -49,7 +49,7 @@
             display: grid;
             row-gap: fluid(16, 6);
 
-            &:has(.card__rating-view) {
+            &:has(.card__raiting-view) {
                 display: flex;
                 justify-content: space-between;
                 align-items: center;
