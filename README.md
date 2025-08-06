@@ -1,4 +1,4 @@
-<h1 align="center">Многостраничный лендинг <a href="https://maxim-belyi.github.io/pet_future_tech/" target="_blank"> "Future Tech" </a>
+<h1>Многостраничный лендинг <a href="https://maxim-belyi.github.io/pet_future_tech/" target="_blank"> "Future Tech" </a></h1>
 <br>
 <br>
 Вёрстка страницы с подкастами для вымышленной технологической компании "FutureTech".
