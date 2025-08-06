@@ -1,15 +1,16 @@
 <h1>Многостраничный лендинг <a href="https://maxim-belyi.github.io/pet_future_tech/" target="_blank"> "Future Tech" </a></h1>
 <br>
 <br>
+<p align="center">
+  <img src="images/future-tech_title.avif" alt="app screenshot" width="800">
+</p>
+<br>
+<br>
 Вёрстка страницы с подкастами для вымышленной технологической компании "FutureTech".
 <br>
 Проект демонстрирует навыки создания сложных сеток на Grid/Flexbox, адаптивной верстки, добавления видео файлов на страницу.
 Проект создан по мастер классу <a href="https://www.youtube.com/watch?v=hkYzqTKnSIg&list=PL0MUAHwery4pP3XMpzDIMirWRS28ffD_x&index=9&ab_channel=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%9B%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%E2%80%94FriendlyFrontend" target="_blank"> Александра Ламкова</a>
 <br>
-<br>
-<p align="center">
-  <img src="images/future-tech_title.avif" alt="app screenshot" width="800">
-</p>
 <br>
 ### 🛠️ Стек технологий
 
